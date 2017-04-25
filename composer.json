@@ -21,8 +21,9 @@
         ],
         "psr-4": {
             "App\\": "app/",
-            "LaravelAcl\\":"app/"
-        }
+            "LaravelAcl\\":"app/",
+            "Front\\":"packages/front/src/"
+       }
     },
     "autoload-dev": {
         "psr-4": {
